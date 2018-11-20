@@ -1,6 +1,6 @@
 # my-project
-<html>
-<head>
+html>
+    <head>
 
     <title>
      aya's cv  
